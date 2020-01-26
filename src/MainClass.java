@@ -1,6 +1,6 @@
 
 public class MainClass {
-	
+	// this is the main class
 	public static void main(String[] args) {
 		Person p1 =new Person(1);
 		Person p2 =new Person(2);
