@@ -1,6 +1,8 @@
 # person details
 public class Person {
 	private int age;
+	
+	//my age is 18
 	public Person(int age){
 		this.age = age;
 	}
